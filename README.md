@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=이름)](https://solved.ac/pj0903/)
 <!--
 **parkjin0903/parkjin0903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=이름)](https://solved.ac/pj0903/)
