@@ -22,6 +22,12 @@
 ![Keras](https://img.shields.io/badge/Keras-D0000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=white)
 
+
+
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF.svg?&style=for-the-badge&logo=YOLO&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=for-the-badge&logo=OpenCV&logoColor=white)
+
+
 #### :black_nib: Tools
 
 ![Autodesk](https://img.shields.io/badge/Autodesk-0696D7.svg?&style=for-the-badge&logo=Autodesk&logoColor=white)
