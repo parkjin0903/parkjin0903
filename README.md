@@ -2,11 +2,7 @@
 
 ## 💬 About me
 - 🏛️ HYU 18 Mechanical Engineering & Electronic Engineering.
-- 📚 I’m currently learning Object Detection and Human Pose Estimation.
-
-
-#### 🌱 GitHub stats
-![ParkJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjin0903&show_icons=true&theme=radical)
+- 📚 I’m currently learning Object Detection and Pose Estimation.
 
 #### 🎖️ Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pj0903)](https://solved.ac/pj0903/)
