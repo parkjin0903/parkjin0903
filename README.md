@@ -2,7 +2,7 @@
 
 ## 💬 About me
 - 🏛️ HYU 18 Mechanical Engineering & Electronic Engineering.
-- 📚 I’m currently learning Object Detection and Pose Estimation.
+- 📚 I’m currently learning Pose Estimation and Autonomous Driving.
 
 #### 🎖️ Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pj0903)](https://solved.ac/pj0903/)
