@@ -23,14 +23,6 @@
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF.svg?&style=for-the-badge&logo=YOLO&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=for-the-badge&logo=OpenCV&logoColor=white)
 
-
-#### :black_nib: Tools
-
-![Autodesk](https://img.shields.io/badge/Autodesk-0696D7.svg?&style=for-the-badge&logo=Autodesk&logoColor=white)
-![SketchUp](https://img.shields.io/badge/SketchUp-005F9E.svg?&style=for-the-badge&logo=SketchUp&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?&style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?&style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
  
 ### :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://pjpjpjpj.tistory.com/)](https://pjpjpjpj.tistory.com/)
