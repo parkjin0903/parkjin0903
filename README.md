@@ -1,7 +1,7 @@
 # Park Jin 😉
 
 ## 💬 About me
-- 🏛️ Hanyang University 18 Mechanical Engineering & Electronic Engineering.
+- 🏛️ Hanyang University 18 Mechanical Engineering & Electronic Engineering & Automotive Engineering
 - 📚 I’m currently learning Pose Estimation and Autonomous Driving.
 
 #### 🎖️ Problem Solving
