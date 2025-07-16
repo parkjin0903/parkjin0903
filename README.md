@@ -1,5 +1,5 @@
 # Park Jin 😉
-Pending
+~Pending 
 
 ## 💬 About me
 - 🏛️ Hanyang University 18 Mechanical Engineering & Electronic Engineering & Automotive Engineering
